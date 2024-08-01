@@ -1,0 +1,582 @@
+#LyX 2.4 created this file. For more info see https://www.lyx.org/
+\lyxformat 620
+\begin_document
+\begin_header
+\save_transient_properties true
+\origin unavailable
+\textclass article
+\begin_preamble
+\usepackage{lastpage}
+\usepackage{amsmath}
+\newcommand{\ø}{\raisebox{.3ex}{\tiny$\; \bullet \;$}}
+\renewcommand{\arraystretch}{1.25}
+%\usepackage{fancyhdr}
+%\pagestyle{fancy}
+\headsep 10pt
+% \chead{\small{\textrm{\textit{John Smith · \number\year~· Page \thepage}}}}
+\cfoot{}
+%\usepackage{mathpazo}
+%\usepackage[english]{babel}
+% Added by lyx2lyx
+\setlength{\parskip}{\smallskipamount}
+\setlength{\parindent}{0pt}
+
+\pagestyle{empty}  % Ensure no headers or footers
+\end_preamble
+\use_default_options false
+\maintain_unincluded_children no
+\language british
+\language_package default
+\inputencoding auto-legacy
+\fontencoding auto
+\font_roman "palatino" "default"
+\font_sans "cmss" "default"
+\font_typewriter "cmtt" "default"
+\font_math "auto" "auto"
+\font_default_family rmdefault
+\use_non_tex_fonts false
+\font_sc false
+\font_roman_osf false
+\font_sans_osf false
+\font_typewriter_osf false
+\font_sf_scale 100 100
+\font_tt_scale 100 100
+\use_microtype false
+\use_dash_ligatures true
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\float_placement class
+\float_alignment class
+\paperfontsize 11
+\spacing single
+\use_hyperref false
+\papersize letter
+\use_geometry true
+\use_package amsmath 1
+\use_package amssymb 2
+\use_package cancel 1
+\use_package esint 0
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 0
+\use_formatted_ref 0
+\use_minted 0
+\use_lineno 0
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\leftmargin 1.2cm
+\topmargin 1.2cm
+\rightmargin 1.2cm
+\bottommargin 1.2cm
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\is_math_indent 0
+\math_numbering_side default
+\quotes_style english
+\dynamic_quotes 0
+\papercolumns 1
+\papersides 1
+\paperpagestyle fancy
+\tablestyle default
+\tracking_changes false
+\output_changes false
+\change_bars false
+\postpone_fragile_content false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\docbook_table_output 0
+\docbook_mathml_prefix 1
+\html_latex_start <span class='latex'>
+\html_latex_end </span>
+\end_header
+
+\begin_body
+
+\begin_layout Standard
+\noindent
+\align center
+
+\size large
+\noun on
+\begin_inset VSpace 0pt
+\end_inset
+
+
+\begin_inset Tabular
+<lyxtabular version="3" rows="1" columns="4">
+<features tabularvalignment="middle">
+<column alignment="left" valignment="top" width="6cm">
+<column alignment="center" valignment="top" width="2cm">
+<column alignment="right" valignment="top" width="3cm">
+<column alignment="center" valignment="top" width="5cm">
+<row>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\noindent
+\align left
+
+\series bold
+\shape smallcaps
+\begin_inset VSpace 10pt
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\shape default
+\size large
+Mike Wu
+\series default
+\size default
+
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+to insert a 
+\backslash
+linebreak,
+ Inset > Formatting > Justified line break
+\end_layout
+
+\end_inset
+
+
+\begin_inset Newline linebreak
+\end_inset
+
+
+\shape italic
+\size small
+Machine Learning | Data Science
+\shape default
+\size default
+
+\begin_inset Newline linebreak
+\end_inset
+
+
+\shape italic
+\size small
+Cybersecurity Red Teaming
+\shape default
+\size default
+
+\begin_inset Newline linebreak
+\end_inset
+
+
+\shape italic
+\size small
+AWS DevOps| MLOps
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="right" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\noindent
+\align right
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\noindent
+\align right
+
+\series bold
+\shape smallcaps
+\begin_inset VSpace 10pt
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\family sans
+\series default
+\shape default
+\size small
+347.946.3708
+\family default
+
+\begin_inset Newline linebreak
+\end_inset
+
+
+\family typewriter
+sw1277@nyu.edu
+\family default
+
+\begin_inset Newline linebreak
+\end_inset
+
+New York,
+ NY
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Experience
+\series default
+
+\begin_inset VSpace 0pt
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset CommandInset line
+LatexCommand rule
+offset "0.5ex"
+width "100line%"
+height "1pt"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace -12pt
+\end_inset
+
+
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 0000.0000.000
+\noindent
+
+\noun on
+2022/2–2024/6
+\series bold
+\noun default
+ Cloud Engineer (Cloud Infrastructure and Security) @ TripleLift (New York,
+ NY)
+\series default
+
+\begin_inset Newline newline
+\end_inset
+
+– Ad Exchange Statistical Model development (PyMC,
+ GBM,
+ Random Forest/KNN),
+ deployment,
+ and engineered posterior predictive checks programmatically 
+\begin_inset Newline newline
+\end_inset
+
+– Implemented CI/CD pipelines (Jenkins,
+ CodePipeline),
+ observability (Grafana,
+ NewRelic) to ensure the reliability and high performance of distributed systems (Kafka);
+ designed and maintained cloud infrastructure modules on AWS with Infra as Code (Terraform,
+ Terragrunt);
+ vaarious secret management integration (Vault,
+ eg IAM Auth) & KV store / service discovery (Consul) 
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 0000.0000.000
+\noindent
+
+\noun on
+2016/1–2020/6
+\series bold
+\noun default
+ Capital Modeling Analyst (Enterprise Risk Management) @ AIG (New York,
+ NY)
+\series default
+ 
+\begin_inset Newline newline
+\end_inset
+
+– Main developer of ERM's Capital Model from scratch with MATLAB/Python3,
+ built with various Copula and MCMC methodologies.
+ 
+\begin_inset Newline newline
+\end_inset
+
+– Deployed various automation:
+ python3 scripts/Github Actions for MLOps/DevOps,
+ Pull Request Automations (Terraform,
+ Atlantis) streamlining build/deploy processes and reducing operational overhead 
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 0000.0000.000
+
+\noun on
+2014/5–2016/1
+\series bold
+\noun default
+ Risk Analyst (Insurance Service Office) @ Verisk Analytics (Jersey City,
+ NJ)
+\series default
+
+\begin_inset Newline newline
+\end_inset
+
+– Risk Modelling for Property Casualty insurance industry by product lines (eg Fire,
+ Commercial Property) with classical statistical methods such as GLM 
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 0000.0000.000
+\noindent
+
+\noun on
+2012/9–2014/4
+\series bold
+\noun default
+ Analyst @ Deloitte Consulting (New York,
+ NY)
+\series default
+
+\begin_inset Newline newline
+\end_inset
+
+– Various Client portfolio valuation and modelling projects for Financial Reporting and client presentations.
+ Led and project-managed a team of six during summer.
+\begin_inset Newline newline
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+\begin_inset VSpace -4pt
+\end_inset
+
+
+\series bold
+\emph default
+Technologies
+\series default
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset CommandInset line
+LatexCommand rule
+offset "0.5ex"
+width "100line%"
+height "1pt"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace -12pt
+\end_inset
+
+
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 0000.0000.0000.0000.00
+\noindent
+
+\noun on
+Development:
+
+\noun default
+ Flask/Python,
+ FastAPI,
+ Streamlit,
+ Go,
+ C,
+ C++,
+ Java,
+ PHP,
+ Next.js,
+ Svelte,
+ Ruby
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 0000.0000.0000.0000.00
+\noindent
+
+\noun on
+ML/MLOps:
+ 
+\noun default
+PyTorch,
+ TensorFlow,
+ scikit-learn,
+ MLFlow,
+ Hugging Face
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+\begin_inset VSpace -4pt
+\end_inset
+
+
+\series bold
+\emph default
+Education/Certifications/Courses
+\series default
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset CommandInset line
+LatexCommand rule
+offset "0.5ex"
+width "100line%"
+height "1pt"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace -12pt
+\end_inset
+
+
+\end_layout
+
+\begin_layout Labeling
+
+\series bold
+\noun on
+2024
+\series default
+ Completion of PEN-200 by Offensive Security:
+ Penetration Testing with Kali Linux,
+ Global rank #93 in Proving Ground Lab as of July '24
+\end_layout
+
+\begin_layout Labeling
+
+\series bold
+\noun on
+2023
+\series default
+ Completed DataCamp Track:
+ Machine Learning Engineer
+\end_layout
+
+\begin_layout Labeling
+\noindent
+
+\series bold
+\noun on
+2022
+\series default
+ Hashicorp certified in Terraform & Vault
+\end_layout
+
+\begin_layout Labeling
+
+\series bold
+\noun on
+2021
+\series default
+ AWS certified in Machine Learning,
+ Data Analytics,
+ Database specialty,
+ DevOps pro,
+ Solution Arch pro
+\end_layout
+
+\begin_layout Labeling
+
+\series bold
+\noun on
+2016
+\series default
+ Obtained Financial Risk Manager (FRM by GARP)
+\end_layout
+
+\begin_layout Labeling
+\align block
+
+\series bold
+\noun on
+2008–2012
+\series default
+ BS in Finance,
+ NYU Stern School of Business.
+ Research assistant on High-freq trading (HFT).
+\end_layout
+
+\begin_layout Labeling
+\noindent
+
+\emph on
+\begin_inset VSpace -4pt
+\end_inset
+
+
+\end_layout
+
+\end_body
+\end_document
